@@ -1,2 +1,1 @@
-Hi, im Gonzalo Othacehe, Frontend developer at Valtech @V_Camp
-This is mi work account.
+Hi, Im Gonzalo Othacehe, Frontend developer at Valtech @V_Camp
